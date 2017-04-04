@@ -1,0 +1,12 @@
+[My Computer]
+My Computer = "192.168.1.24"
+
+[R-30-Target-Rio]
+R-30-Target-Rio = "192.168.1.88"
+
+[Rio-R45-1]
+Rio-R45-1 = "192.168.1.80"
+
+[Transmission]
+Transmission = "192.168.1.91"
+
