@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "172.22.11.1"
+My Computer = "192.168.1.24"
 
 [R-30-Target-Rio]
 R-30-Target-Rio = "192.168.1.88"
