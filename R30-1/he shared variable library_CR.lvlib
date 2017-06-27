@@ -162,11 +162,12 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
 		<Property Name="Scaling:EngMax" Type="Str">2</Property>
 		<Property Name="Scaling:EngMin" Type="Str">0</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
-		<Property Name="Scaling:RawMax" Type="Str">100</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
 		<Property Name="Scaling:RawMin" Type="Str">0</Property>
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
@@ -183,11 +184,12 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
 		<Property Name="Scaling:EngMax" Type="Str">2</Property>
 		<Property Name="Scaling:EngMin" Type="Str">0</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
-		<Property Name="Scaling:RawMax" Type="Str">100</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
 		<Property Name="Scaling:RawMin" Type="Str">0</Property>
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
@@ -204,11 +206,12 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
 		<Property Name="Scaling:EngMax" Type="Str">2</Property>
 		<Property Name="Scaling:EngMin" Type="Str">0</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
-		<Property Name="Scaling:RawMax" Type="Str">100</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
 		<Property Name="Scaling:RawMin" Type="Str">0</Property>
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
@@ -225,11 +228,12 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
 		<Property Name="Scaling:EngMax" Type="Str">2</Property>
 		<Property Name="Scaling:EngMin" Type="Str">0</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
-		<Property Name="Scaling:RawMax" Type="Str">100</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
 		<Property Name="Scaling:RawMin" Type="Str">0</Property>
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
@@ -246,8 +250,9 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">6</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.5</Property>
 		<Property Name="Scaling:EngMin" Type="Str">0</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
 		<Property Name="Scaling:RawMax" Type="Str">10</Property>
@@ -267,8 +272,9 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">6</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.5</Property>
 		<Property Name="Scaling:EngMin" Type="Str">0</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
 		<Property Name="Scaling:RawMax" Type="Str">10</Property>
@@ -288,8 +294,9 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">6</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.5</Property>
 		<Property Name="Scaling:EngMin" Type="Str">0</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
 		<Property Name="Scaling:RawMax" Type="Str">10</Property>
@@ -309,8 +316,9 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">6</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.5</Property>
 		<Property Name="Scaling:EngMin" Type="Str">0</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
 		<Property Name="Scaling:RawMax" Type="Str">10</Property>
@@ -540,8 +548,9 @@
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">10</Property>
+		<Property Name="Scaling:EngMax" Type="Str">72</Property>
 		<Property Name="Scaling:EngMin" Type="Str">0</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
 		<Property Name="Scaling:RawMax" Type="Str">10</Property>
