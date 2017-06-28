@@ -528,14 +528,14 @@
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">3</Property>
-		<Property Name="Scaling:EngMin" Type="Str">-3</Property>
+		<Property Name="Scaling:EngMax" Type="Str">3.000000</Property>
+		<Property Name="Scaling:EngMin" Type="Str">-3.000000</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
-		<Property Name="Scaling:RawMax" Type="Str">10</Property>
-		<Property Name="Scaling:RawMin" Type="Str">-10</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10.000000</Property>
+		<Property Name="Scaling:RawMin" Type="Str">-10.000000</Property>
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R30 Y steerers voltage readback" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
@@ -551,10 +551,10 @@
 		<Property Name="Path" Type="Str">/MayUpgrade.lvproj/R-30-Target-Rio/he shared variable library_CR.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
 		<Property Name="Scaling:EngMax" Type="Str">72</Property>
-		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngMin" Type="Str">-72</Property>
 		<Property Name="Scaling:EngUnit" Type="Str"></Property>
 		<Property Name="Scaling:RawMax" Type="Str">10</Property>
-		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:RawMin" Type="Str">-10</Property>
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
